@@ -1,0 +1,116 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+.section-heading {
+	text-align: center;
+	color: white;
+	background-color: #ff5233;
+	padding: 10px 0;
+}
+
+.container {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.logo, .nav, .banner {
+	background-color: #ddd;
+	margin: 20px 0;
+	padding: 10px 30px;
+}
+
+.nav, .banner {
+	text-align: center;
+	padding: 5px 0;
+}
+.banner {
+	padding: 20px 0;
+}
+
+.box {
+	overflow: hidden;
+	text-align: center;
+}
+.sidebar {
+	width: 20%;
+	float: left;
+	background-color: #ddd;
+	padding: 200px 0;
+}
+.bodyarea {
+	width: 78%;
+	float: right;
+	background-color: #ddd;
+	padding: 200px 0;
+}
+
+/*layout-02*/
+
+.menu {
+	overflow: hidden;
+	margin: 20px 0;
+}
+.logo2 {
+	width: 30%;
+	float: left;
+	background-color: #ddd;
+	padding: 10px 20px;
+}
+.nav2 {
+	width: 65%;
+	float: right;
+	background-color: #ddd;
+	padding: 10px 0;
+	text-align: center;
+}
+
+.intro {
+	padding: 15px 0;
+}
+.wrapper {
+	display: flex;
+	justify-content: space-between;
+}
+.common {
+	width: 32%;
+	padding: 80px 0;
+	text-align: center;
+	background-color: #ddd;
+}
+.height {
+	padding: 150px 0;
+}
+
+/*layout-03*/
+.box3 {
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.sidebar3 {
+	width: 20%;
+	float: left;
+}
+.bodyarea3 {
+	width: 78%;
+	float: right;
+	padding: 20px 0;
+	background-color: #ddd;
+	text-align: center;
+}
+
+/*layout-04*/
+.box4 {
+	width: 23%;
+	min-height: 150px;
+	background-color: #ddd;
+}
+
+.wrapper-2 {
+	margin-bottom: 20px;
+}
+
